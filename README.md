@@ -1,6 +1,6 @@
 # `Olá, sou Ana Vitória Gomes 🖥️🖱️`
 
-`Bem-vindo(a), sou Ana Vitória Gomes, mais conhecida como Ana Gomes, e sou apaixonada por tecnologia. Atualmente trabalho na área de desenvolvimento web, e tenho o objetivo de me tornar uma Desenvolvedora Full-stack.`
+Bem-vindo(a), sou Ana Vitória Gomes, mais conhecida como Ana Gomes, e sou apaixonada por tecnologia. Atualmente trabalho na área de desenvolvimento web, e tenho o objetivo de me tornar uma Desenvolvedora Full-stack.
 
 ## 🛠️ Linguagens e Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="60" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="60"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="60"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="60" /> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" height="60" />
