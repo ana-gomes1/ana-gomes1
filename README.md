@@ -9,9 +9,9 @@
 <span>
 👾 &nbsp; &nbsp; Amo estudar programação e aprender coisas novas <br />
 <br />
-✨ &nbsp; &nbsp; Trabalhar em equipe é um dos meus principais valores <br />
+✨ &nbsp; &nbsp; Gosto de desafios e solucionar problemas <br />
 <br />
-🤝🏽 &nbsp; &nbsp; Ajudar outras pessoas faz parte do que sou <br />
+🤝🏽 &nbsp; &nbsp; Também gosto de trabalhar com colaboração e dedicação <br />
 <br />
 📧 &nbsp; &nbsp; Disposta para contato: anaveegomes@gmail.com
 </span>
