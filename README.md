@@ -7,7 +7,7 @@
 
 ## 🙋🏽‍♀️ Sobre mim
 <span>
-👾 &nbsp; &nbsp; Amo estudar programação e aprender coisas novas <br />
+👾 &nbsp; &nbsp; Amo criar sites e designs modernos <br />
 ✨ &nbsp; &nbsp; Gosto de desafios e solucionar problemas <br />
 🤝🏽 &nbsp; &nbsp; Também gosto de trabalhar com colaboração e dedicação <br />
 📧 &nbsp; &nbsp; Disposta para contato: anaveegomes@gmail.com
